@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/shalaka-kapure/news-daily.git/static/css/main.abd64e84.css",
-    "main.js": "/shalaka-kapure/news-daily.git/static/js/main.c217360a.js",
+    "main.js": "/shalaka-kapure/news-daily.git/static/js/main.31f38023.js",
     "static/js/787.4c026eef.chunk.js": "/shalaka-kapure/news-daily.git/static/js/787.4c026eef.chunk.js",
     "index.html": "/shalaka-kapure/news-daily.git/index.html",
     "main.abd64e84.css.map": "/shalaka-kapure/news-daily.git/static/css/main.abd64e84.css.map",
-    "main.c217360a.js.map": "/shalaka-kapure/news-daily.git/static/js/main.c217360a.js.map",
+    "main.31f38023.js.map": "/shalaka-kapure/news-daily.git/static/js/main.31f38023.js.map",
     "787.4c026eef.chunk.js.map": "/shalaka-kapure/news-daily.git/static/js/787.4c026eef.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.abd64e84.css",
-    "static/js/main.c217360a.js"
+    "static/js/main.31f38023.js"
   ]
 }
