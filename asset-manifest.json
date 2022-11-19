@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/shalaka-kapure/news-daily.git/static/css/main.abd64e84.css",
-    "main.js": "/shalaka-kapure/news-daily.git/static/js/main.31f38023.js",
-    "static/js/787.4c026eef.chunk.js": "/shalaka-kapure/news-daily.git/static/js/787.4c026eef.chunk.js",
-    "index.html": "/shalaka-kapure/news-daily.git/index.html",
-    "main.abd64e84.css.map": "/shalaka-kapure/news-daily.git/static/css/main.abd64e84.css.map",
-    "main.31f38023.js.map": "/shalaka-kapure/news-daily.git/static/js/main.31f38023.js.map",
-    "787.4c026eef.chunk.js.map": "/shalaka-kapure/news-daily.git/static/js/787.4c026eef.chunk.js.map"
+    "main.css": "/TextUtilis/static/css/main.073c9b0a.css",
+    "main.js": "/TextUtilis/static/js/main.d0c731f7.js",
+    "static/js/787.f83ea5b6.chunk.js": "/TextUtilis/static/js/787.f83ea5b6.chunk.js",
+    "index.html": "/TextUtilis/index.html",
+    "main.073c9b0a.css.map": "/TextUtilis/static/css/main.073c9b0a.css.map",
+    "main.d0c731f7.js.map": "/TextUtilis/static/js/main.d0c731f7.js.map",
+    "787.f83ea5b6.chunk.js.map": "/TextUtilis/static/js/787.f83ea5b6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.abd64e84.css",
-    "static/js/main.31f38023.js"
+    "static/css/main.073c9b0a.css",
+    "static/js/main.d0c731f7.js"
   ]
 }
